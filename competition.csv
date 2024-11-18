@@ -1,0 +1,11 @@
+Time,Bond,Side,Notional,Counterparty,MidPrice,QuotedPrice,Competitors,Traded,nextMidPrice
+4881,US Treasury 30Y,BID,2500000,SniperFund,94.198,94.014,1,,
+4885,US Treasury 2Y,BID,10000000,CountrysideBroker,101.921,101.745,7,,
+4885,US Treasury 2Y,BID,500000,SleepyManager,99.615,99.548,7,,
+4894,US Treasury 3Y,ASK,2500000,RelativeValueStrategies,100.768,100.869,4,,
+4903,US Treasury 5Y,ASK,5000000,SniperFund,99.96,100.077,4,,
+4911,US Treasury 5Y,ASK,250000,SleepyManager,97.621,97.699,5,,
+4913,US Treasury 30Y,BID,250000,RelativeValueStrategies,93.568,93.407,1,,
+4920,US Treasury 30Y,BID,100000,RelativeValueStrategies,96.49,96.334,4,,
+4925,US Treasury 10Y,BID,100000,HF-Fortress,94.95,94.839,7,,
+4934,US Treasury 5Y,ASK,2500000,TankerAssetManagement,97.995,98.096,2,,
